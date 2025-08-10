@@ -1,19 +1,18 @@
 class Solution {
-    public int peakIndexInMountainArray(int[] arr) {
-      
-      int peak=0;
-         
-       
-        for(int i=0;i<arr.length;i++)
-        {
-        
-           if (arr[i]>arr[peak])
+    public int peakIndexInMountainArray(int[] arr) {int start=0;
+int end=arr.length-1;
 
-      {
-    peak=i;
-      }
-        }
-        
-        return peak;
+while(start<end){
+    int mid=start+(end-start)/2;
+    if(arr[mid]>arr[mid+1]){
+        end=mid;
     }
+    else{
+        start=mid+1;
+    }
+
+}
+return start; // we can return end also because both are same that is why we are getting answer when start==end
+    }
+      
 }
