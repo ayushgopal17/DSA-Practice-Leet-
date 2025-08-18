@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
