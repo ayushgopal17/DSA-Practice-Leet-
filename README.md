@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1603-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
