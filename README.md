@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0344-reverse-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
