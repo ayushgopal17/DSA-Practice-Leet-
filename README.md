@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1603-running-sum-of-1d-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
