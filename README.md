@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0724-find-pivot-index) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0882-peak-index-in-a-mountain-array) |
