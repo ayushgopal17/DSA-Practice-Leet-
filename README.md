@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0907-koko-eating-bananas) |
+| [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -150,12 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
+| [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -184,4 +187,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
