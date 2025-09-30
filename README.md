@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1078-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
