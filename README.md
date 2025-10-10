@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
