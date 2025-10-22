@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0792-binary-search) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
