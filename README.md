@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
+| [0861-flipping-an-image](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0861-flipping-an-image](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
+| [0861-flipping-an-image](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
