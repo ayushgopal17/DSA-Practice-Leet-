@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2050-count-good-numbers) |
 ## Memoization
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
