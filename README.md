@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
