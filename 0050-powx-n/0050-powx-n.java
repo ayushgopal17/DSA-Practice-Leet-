@@ -1,20 +1,22 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N=n;
-        if(N<0){
-            x=1/x;
-            N=-N;
+        
+        if(n<0){
+            x= 1/x;
+            n=-n;
         }
-return fastPow(x,N);
+        return fastpow(x,n) ;
     }
-    private double fastPow(double x,long n){
-        if(n==0) return 1;
 
-        double half=fastPow(x,n/2);
+     static double fastpow(double x,int n){
+ if(n==0) return 1;
 
-        if(n%2==0)
-        return half *half;
-
-        else return half*half*x;
+       double half=fastpow(x,n/2);
+        if(n%2==0){
+            return  half*half;
+        }
+        else 
+            return  half*half*x;
+        
     }
 }
