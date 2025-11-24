@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1922-count-good-numbers](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
