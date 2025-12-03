@@ -1,20 +1,24 @@
 class Solution {
+    static String[] map={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz" };
     public List<String> letterCombinations(String digits) {
-        String[] map={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        
+        if(digits.isEmpty())
+        return new ArrayList<>();
+        return helper("",digits); }
+        private List<String> helper(String p,String up){
+            if(up.isEmpty()){
+                ArrayList<String> list=new ArrayList<>();
+                list.add(p);
+                return list;
+            }
+           int digit=up.charAt(0)-'0';
+           String letter=map[digit];
+           List<String> list=new ArrayList<>();
+           for(int i=0;i<letter.length();i++){
+            char ch=letter.charAt(i);
+            list.addAll(helper(p+ch,up.substring(1)));
+           }
+           return list;
 
-        List <String> result =new ArrayList<>();
-        fun(0,"",digits,map,result);
-        return result;
-    }
-    private void fun(int i,String current,String digits,String[] map,List<String> result){
-        if(i== digits.length()){
-            result.add(current);
-            return;
-        }
-        int digit =digits.charAt(i)-'0';
-        String letter=map[digit];
-        for(char ch: letter.toCharArray()){
-            fun(i+1,current+ch,digits,map,result);
         }
     }
-}
