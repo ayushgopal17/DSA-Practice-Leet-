@@ -294,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
