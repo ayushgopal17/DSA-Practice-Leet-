@@ -10,20 +10,17 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        if(head==null || head.next==null) return null;
-
-        int len=0;
-        ListNode temp=head;
-        while(temp !=null){
-            len++;
-            temp=temp.next;
-        }
-       int mid=len/2;
-       ListNode curr=head;
-        for(int i=1;i<mid;i++){
-            curr=curr.next;
-             }
-             curr.next=curr.next.next;
-             return head;
+        
+        while(head==null || head.next==null) return null;
+        ListNode slow=head;
+        ListNode fast=head;
+        ListNode prev=null;
+       while(fast !=null && fast.next !=null){
+        prev=slow;
+        slow=slow.next;
+        fast=fast.next.next;
+       }
+       prev.next=slow.next;
+       return head;
     }
 }
