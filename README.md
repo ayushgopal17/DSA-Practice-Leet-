@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -325,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
