@@ -1,6 +1,5 @@
 class MyQueue {
-
-List<Integer> list;
+List <Integer> list;
     public MyQueue() {
         list=new ArrayList<>();
     }
@@ -10,7 +9,7 @@ List<Integer> list;
     }
     
     public int pop() {
-       return list.remove(0);
+        return list.remove(0);
     }
     
     public int peek() {
@@ -18,7 +17,7 @@ List<Integer> list;
     }
     
     public boolean empty() {
-        return list.size()==0;
+        return  list.size()==0;
     }
 }
 
