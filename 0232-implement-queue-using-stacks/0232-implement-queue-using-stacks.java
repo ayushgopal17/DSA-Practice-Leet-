@@ -1,7 +1,7 @@
 class MyQueue {
-List <Integer> list;
+List<Integer> list;
     public MyQueue() {
-        list=new ArrayList<>();
+        list= new ArrayList<>();
     }
     
     public void push(int x) {
@@ -13,11 +13,11 @@ List <Integer> list;
     }
     
     public int peek() {
-        return list.get(0);
+       return list.get(0);
     }
     
     public boolean empty() {
-        return  list.size()==0;
+        return list.isEmpty();
     }
 }
 
