@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1004-max-consecutive-ones-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1603-running-sum-of-1d-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
