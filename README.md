@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1013-fibonacci-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
