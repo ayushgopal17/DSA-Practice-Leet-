@@ -4,16 +4,20 @@ class Solution {
         int j=nums.length-1;
             while(i<=j){
              if(nums[i] ==val){
-                int temp=nums[i];
-                nums[i]=nums[j];
-                nums[j]=temp;
+                swap(nums,i,j);
                 j--;
             }
             else{
                 i++;
             }
         }
+      
             
         return i;
     }
+      void swap(int[] nums,int i,int j){
+            int temp=nums[i];
+            nums[i]=nums[j];
+            nums[j]=temp;
+        }
 }
