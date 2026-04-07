@@ -7,10 +7,12 @@ class Solution {
         
         int lsum=0;
         for(int i=0;i<nums.length;i++){
-            if(i!=0) lsum +=nums[i-1];
-            if(tsum-lsum-nums[i]==lsum){
-                return i;
-            }
+           if(tsum-lsum-nums[i]==lsum){
+            return i;
+           }
+           else{
+            lsum +=nums[i];
+           }
         }
         return -1;
     }
