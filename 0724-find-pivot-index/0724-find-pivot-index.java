@@ -7,17 +7,12 @@ class Solution {
         }
 
         int lsum=0;
-        int i=0;
-        while(i<nums.length){
-         
+        for(int i=0;i<nums.length;i++){
             if(tsum-lsum-nums[i]==lsum){
-                  
                 return i;
             }
-            else{
-                   lsum+=nums[i];
-                i++;
-              
+            else {
+           lsum +=nums[i];
             }
         }
         return -1;
