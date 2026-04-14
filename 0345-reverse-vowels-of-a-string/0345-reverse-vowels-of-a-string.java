@@ -10,6 +10,7 @@ class Solution {
                 i++;
             }
             else if(!isvowel(arr[j])){
+
                 j--;
             }
             else{
@@ -20,16 +21,16 @@ class Solution {
                 j--;
             }
         }
-        return  new String(arr);
+        return new String(arr);
     }
 
     static boolean isvowel(char c){
         c=Character.toLowerCase(c);
-        if(c=='a'|| c=='e'|| c=='i'|| c=='o'|| c=='u'){
+        if(c=='a' || c=='e'||c=='i'||c=='o'||c=='u'){
             return true;
         }
-        else {
-            return false;
+        else{
+          return  false;
         }
     }
 }
