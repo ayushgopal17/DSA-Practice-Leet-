@@ -6,11 +6,11 @@ class Solution {
         int j=s.length()-1;
 
         while(i<j){
+
             if(!isvowel(arr[i])){
                 i++;
             }
             else if(!isvowel(arr[j])){
-
                 j--;
             }
             else{
@@ -23,14 +23,14 @@ class Solution {
         }
         return new String(arr);
     }
-
-    static boolean isvowel(char c){
+    public boolean isvowel(char c){
         c=Character.toLowerCase(c);
-        if(c=='a' || c=='e'||c=='i'||c=='o'||c=='u'){
+
+        if(c=='a'|| c=='e'||c=='i'||c=='o'||c=='u'){
             return true;
         }
         else{
-          return  false;
+            return false;
         }
     }
 }
