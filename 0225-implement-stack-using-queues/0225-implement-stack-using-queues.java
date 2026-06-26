@@ -1,14 +1,15 @@
 class MyStack {
- private Queue <Integer> q;
+    Queue<Integer> q;
+
     public MyStack() {
-        q=new LinkedList<>();
+        q= new LinkedList<>();
     }
     
     public void push(int x) {
         q.add(x);
-       for(int i=0;i<q.size()-1;i++){
-        q.add(q.poll());
-       }
+        for(int i=1;i<q.size();i++){
+            q.add(q.poll());
+        }
     }
     
     public int pop() {
@@ -16,11 +17,11 @@ class MyStack {
     }
     
     public int top() {
-        return q.peek();
+       return q.peek();
     }
     
     public boolean empty() {
-        return q.isEmpty();
+       return q.isEmpty();
     }
 }
 
