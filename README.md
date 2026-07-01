@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2271-rearrange-array-elements-by-sign) |
