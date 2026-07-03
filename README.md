@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0409-longest-palindrome) |
 | [0742-to-lower-case](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0812-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
