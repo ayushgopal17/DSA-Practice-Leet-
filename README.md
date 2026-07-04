@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2050-count-good-numbers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0409-longest-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
