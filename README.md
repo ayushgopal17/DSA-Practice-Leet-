@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0409-longest-palindrome) |
 | [0742-to-lower-case](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0742-to-lower-case) |
+| [0796-rotate-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1078-remove-outermost-parentheses) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0812-rotate-string) |
 ## Backtracking
 |  |
