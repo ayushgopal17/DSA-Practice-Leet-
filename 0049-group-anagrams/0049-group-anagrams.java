@@ -4,20 +4,18 @@ class Solution {
 
         for (int i = 0; i < strs.length; i++) {
 
-            char[] arr = strs[i].toCharArray();
-            Arrays.sort(arr);
+            char[] ch = strs[i].toCharArray();
+            Arrays.sort(ch);
 
-            String key = new String(arr);
+            String key = new String(ch);
 
-            if (map.containsKey(key)) {
-                map.get(key).add(strs[i]);
-            } else {
-                List<String> list = new ArrayList<>();
-                list.add(strs[i]);
-                map.put(key, list);
+            if (!map.containsKey(key)) {
+                map.put(key, new ArrayList<>());
             }
+
+            map.get(key).add(strs[i]);
         }
 
         return new ArrayList<>(map.values());
-    }
+            }
 }
