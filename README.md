@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0409-longest-palindrome) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0977-squares-of-a-sorted-array) |
@@ -304,12 +307,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0387-first-unique-character-in-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Prefix Sum
@@ -344,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -353,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -512,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0547-number-of-provinces) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
