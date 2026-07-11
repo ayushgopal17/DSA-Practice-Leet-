@@ -8,9 +8,9 @@ class Solution {
                 if(num=='.'){
                     continue;
                 }
-                String row=num+" in row "+i;
-                String col=num+" in col "+j;
-                String box=num+" in box "+(i/3)+"-"+(j/3);
+                String row=num+"r"+i;
+                String col=num+"c"+j;
+                String box=num+"b"+(i/3)+"-"+(j/3);
 
                 if(set.contains(row) ||
                  set.contains(col)||
