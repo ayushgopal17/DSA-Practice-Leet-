@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
