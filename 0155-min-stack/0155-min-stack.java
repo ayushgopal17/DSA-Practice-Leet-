@@ -4,25 +4,24 @@ Stack<Integer> minstack;
     public MinStack() {
         stack= new Stack<>();
         minstack= new Stack<>();
+
     }
-    
     public void push(int value) {
-        stack.push(value);
-        if(minstack.isEmpty() || value <=minstack.peek()){
-            minstack.push(value);
-        }
+      stack.push(value);
+      if(minstack.isEmpty() || value <=minstack.peek()){
+        minstack.push(value);
+      }  
     }
     
     public void pop() {
-
-      int popped=  stack.pop();
-     if(popped ==minstack.peek()){
+       int popped=   stack.pop();
+      if(popped == minstack.peek()){
         minstack.pop();
-}
+      }
     }
     
     public int top() {
-     return   stack.peek();
+     return     stack.peek();
     }
     
     public int getMin() {
