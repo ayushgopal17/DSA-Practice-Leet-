@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0231-power-of-two) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ayushgopal17/DSA-Practice-Leet-/tree/master/0203-remove-linked-list-elements) |
