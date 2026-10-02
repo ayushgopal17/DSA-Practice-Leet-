@@ -1,19 +1,28 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int total=Arrays.stream(nums).sum();
-        if(total%2 !=0) return false;
 
-        int target=total/2;
-        boolean[] dp= new boolean[target+1];
-        dp[0]=true;
-
-        for(int n:nums){
-            for(int i=target;i>=n;i--){
-                if(dp[i]) continue;
-                if(dp[i-n]) dp[i]=true;
-                if(dp[target]) return true;
-            }
+        int sum = 0;
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
         }
-        return false;
+
+        if (sum % 2 != 0) {
+            return false;
+        }
+
+        return subsetSum(nums, sum / 2);
     }
+
+    boolean subsetSum(int[] nums, int sum) {
+        boolean[] dp = new boolean[sum + 1];
+        dp[0] = true;
+
+        for (int num : nums) {
+            for (int j = sum; j >= num; j--) {
+                dp[j] = dp[j] || dp[j - num];
+            }
+            }
+          return dp[sum];
+    }
+  
 }
